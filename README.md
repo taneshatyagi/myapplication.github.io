@@ -19,4 +19,4 @@ played i.e the card name, the link and the time it was played
 4. MUI
 
 # Live Site
-- https://video-tube-react.netlify.app/
+- https://jazzy-crepe-aa8c97.netlify.app/
